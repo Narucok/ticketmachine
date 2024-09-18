@@ -6,7 +6,6 @@
  */
 public class TicketMachine
 {
-    // instance variables - replace the example below with your own
     private int balance;
     private int price;
     private int total;
